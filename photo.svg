@@ -1,0 +1,14 @@
+<svg 
+xmlns="http://www.w3.org/2000/svg"
+width="400"
+height="400"
+viewBox=""
+>
+  <ellipse rx="75" ry="20" cx="150" cy="270" fill="lightgray"/>
+  <circle r="120" cx="150" cy="150" fill="yellow"/>
+  <circle r="40" cx="90" cy="140" fill="white"/>
+  <circle r="50" cx="200" cy="120" fill="white"/>
+  <circle r="15" cx="200" cy="95"/>
+  <circle r="15" cx="80" cy="150"/>
+  <ellipse rx="50" ry="25" cx="150" cy="210" fill="brown"/>
+</svg>
