@@ -1,9 +1,7 @@
 <svg 
 xmlns="http://www.w3.org/2000/svg"
 width="400"
-height="400"
-viewBox=""
->
+height="400">
   <ellipse rx="75" ry="20" cx="150" cy="270" fill="lightgray"/>
   <circle r="120" cx="150" cy="150" fill="yellow"/>
   <circle r="40" cx="90" cy="140" fill="white"/>
